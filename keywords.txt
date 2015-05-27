@@ -1,0 +1,20 @@
+##################################
+# Syntax Coloring Map For Joystick
+##################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Joystick		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin			KEYWORD2
+readX			KEYWORD2
+readY			KEYWORD2
+readInvertedX		KEYWORD2
+readInvertedY		KEYWORD2
+readPushButton		KEYWORD2
